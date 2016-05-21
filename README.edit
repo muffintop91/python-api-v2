@@ -1,0 +1,3 @@
+URL: stratum+tcp://stratum.bitcoin.cz:3333
+user name: userID.workerName
+password: anything
